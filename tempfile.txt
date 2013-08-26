@@ -1,2 +1,3 @@
 tempfile
 new line added
+third line added
