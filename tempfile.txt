@@ -1,7 +1,5 @@
 tempfile
 new line added
-<<<<<<< HEAD
 third line added
-=======
 line added on shorten title branch
->>>>>>> shorten_title
+
