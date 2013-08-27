@@ -5,3 +5,5 @@ this is currently the last line.
 Now I've added another line.
 another line here too again.
 
+Adding line to text2 to test remote tracking.
+
